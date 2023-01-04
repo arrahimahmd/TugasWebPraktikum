@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Edit Class kotak */
+.kotak {
+    border: 3px solid black;
+    width: 150px;
+    height: 700px;
+}
+
+/*edit class item-1*/
+.item-1 {
+    background-color: yellow;
+}
+/*edit class item-1*/
+.item-2 {
+    background-color: greenyellow;
+}
+/*edit class item-1*/
+.item-3 {
+    background-color: aquamarine;
+}
+/*edit class item-1*/
+.item-4 {
+    background-color: orange;
+}
